@@ -13,3 +13,6 @@ pip install babel matplotlib numpy pandas seaborn streamlit
 
 ## run aplikasi
 streamlit run dashboard.py
+
+## url aplikasi
+https://keriz-ds.streamlit.app/
